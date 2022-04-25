@@ -3,7 +3,7 @@
 #include <time.h>
 
 #define N 1
-#define pi 3.1415926534
+#define pi 3.141592653
 
 float p1(float a,float b,float c){
     float y;
